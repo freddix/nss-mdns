@@ -1,7 +1,7 @@
 Summary:	Host name resolution via Multicast DNS
 Name:		nss-mdns
 Version:	0.10
-Release:	14
+Release:	15
 License:	LGPL
 Group:		Libraries
 Source0:	http://0pointer.de/lennart/projects/nss-mdns/%{name}-%{version}.tar.gz
